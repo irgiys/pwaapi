@@ -1,0 +1,83 @@
+{
+ product: [{
+  "id": 1,
+  "name": "Sherry Lorkings",
+  "category": "Mauv"
+}, {
+  "id": 2,
+  "name": "Annalise Sansome",
+  "category": "Aquamarine"
+}, {
+  "id": 3,
+  "name": "Susie Berresford",
+  "category": "Indigo"
+}, {
+  "id": 4,
+  "name": "Cordie Grimditch",
+  "category": "Teal"
+}, {
+  "id": 5,
+  "name": "Craig Brislane",
+  "category": "Blue"
+}, {
+  "id": 6,
+  "name": "Gris Sealy",
+  "category": "Violet"
+}, {
+  "id": 7,
+  "name": "Lyon Gransden",
+  "category": "Indigo"
+}, {
+  "id": 8,
+  "name": "Rollo Carville",
+  "category": "Khaki"
+}, {
+  "id": 9,
+  "name": "Reggi Feeny",
+  "category": "Red"
+}, {
+  "id": 10,
+  "name": "Melantha Skim",
+  "category": "Goldenrod"
+}, {
+  "id": 11,
+  "name": "Hollie Puxley",
+  "category": "Red"
+}, {
+  "id": 12,
+  "name": "Andras Windsor",
+  "category": "Green"
+}, {
+  "id": 13,
+  "name": "Madelene Cosgrave",
+  "category": "Violet"
+}, {
+  "id": 14,
+  "name": "Brenna Bauser",
+  "category": "Puce"
+}, {
+  "id": 15,
+  "name": "Mortimer Alexander",
+  "category": "Orange"
+}, {
+  "id": 16,
+  "name": "Gunner Spencley",
+  "category": "Purple"
+}, {
+  "id": 17,
+  "name": "Cam Sweynson",
+  "category": "Indigo"
+}, {
+  "id": 18,
+  "name": "Janel Sadlier",
+  "category": "Green"
+}, {
+  "id": 19,
+  "name": "Debi Gluyas",
+  "category": "Fuscia"
+}, {
+  "id": 20,
+  "name": "Jillayne Secretan",
+  "category": "Green"
+}]
+}
